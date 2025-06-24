@@ -1,0 +1,38 @@
+1)
+Tops Carrer Center:
+Personal Details
+Education Details
+
+
+2)
+Github Account
+
+1)drag and drop
+2)Github Desktop Software
+3)Git CMD
+
+3)
+Dart Setup:
+
+Dart SDK -> 
+SDK -> Software Development Kit
+
+
+1)
+SDK-> https://dart.dev/get-dart/archive
+[Latest Version - 3.8.0]- download zip file
+
+2)
+Editor -> IntelIJIDEA
+-> https://www.jetbrains.com/idea/download/
+
+
+
+
+
+
+
+
+
+
+
