@@ -1,0 +1,34 @@
+echo "<h2>Dhaval API</h2>";
+echo "<ul>";
+echo "<li><a href='dhaval/connect.php'>connection</a></li>";
+echo "<li><a href='dhaval/fd_register.php'>Register</a></li>";
+echo "<li><a href='dhaval/fd_login.php'>Login</a></li>";
+echo "<li><a href='dhaval/fd_insert_exp.php'>Add Category Expense</a></li>";
+echo "<li><a href='dhaval/fd_view_exp.php'>Vew Category Expense</a></li>";
+echo "<li><a href='dhaval/fd_delete_exp.php'>Delete Category Expense</a></li>";
+echo "<li><a href='dhaval/fd_insert_income.php'>Add Category Income</a></li>";
+echo "<li><a href='dhaval/fd_view_income.php'>View Category Income</a></li>";
+echo "<li><a href='dhaval/fd_delete_income.php'>Delete Category Income</a></li>";
+echo "<li><a href='dhaval/fd_amount_ins.php'>Insert Expense With Amount</a></li>";
+echo "<li><a href='dhaval/fd_income_amount.php'>Insert Income With Amount</a></li>";
+echo "<li><a href='dhaval/total_expense.php'>Total Expense</a></li>";
+echo "<li><a href='dhaval/total_income.php'>Total Income</a></li>";
+echo "<li><a href='dhaval/fd_exp_tranction.php'>Data Fetch Expense Transction</a></li>";
+echo "<li><a href='dhaval/fd_income_tranction.php'>Data Fetch Income Transction</a></li>";
+echo "<li><a href='dhaval/fd_update_expense.php'>Data Update Expense Transction</a></li>";
+echo "<li><a href='dhaval/fd_upincome_tranction.php'>Data Update Income Transction</a></li>";
+echo "<li><a href='dhaval/fd_delete_expense.php'>Data Delete Expense Transction</a></li>";
+echo "<li><a href='dhaval/fd_delete_intraction.php'>Data Delete Income Transction</a></li>";
+echo "<li><a href='dhaval/fd_bud_insert.php'>Monthly Budget Insert</a></li>";
+echo "<li><a href='dhaval/fd_bud_view.php'>Monthly Budget View</a></li>";
+echo "</ul>";
+
+
+
+
+
+
+
+
+
+
