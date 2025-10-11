@@ -1,6 +1,7 @@
 echo "<h2>Dhaval API</h2>";
 echo "<ul>";
 echo "<li><a href='dhaval/connect.php'>connection</a></li>";
+echo "<li><a href='dhaval/view_all_user.php'>View All User</a></li>";
 echo "<li><a href='dhaval/fd_register.php'>Register</a></li>";
 echo "<li><a href='dhaval/fd_login.php'>Login</a></li>";
 echo "<li><a href='dhaval/fd_insert_exp.php'>Add Category Expense</a></li>";
