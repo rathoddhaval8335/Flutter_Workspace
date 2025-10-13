@@ -1,0 +1,62 @@
+echo "<h2>Dhaval API</h2>";
+echo "<ul>";
+echo "<li><a href='dhaval/connect.php'>connection</a></li>";
+echo "<li><a href='dhaval/fd_register.php'>Register</a></li>";
+echo "<li><a href='dhaval/view_all_user.php'>View All User</a></li>";
+echo "<li><a href='dhaval/fd_login.php'>Login</a></li>";
+echo "<li><a href='dhaval/fd_insert_exp.php'>Add Category Expense</a></li>";
+echo "<li><a href='dhaval/fd_view_exp.php'>Vew Category Expense</a></li>";
+echo "<li><a href='dhaval/fd_delete_exp.php'>Delete Category Expense</a></li>";
+echo "<li><a href='dhaval/fd_insert_income.php'>Add Category Income</a></li>";
+echo "<li><a href='dhaval/fd_view_income.php'>View Category Income</a></li>";
+echo "<li><a href='dhaval/fd_delete_income.php'>Delete Category Income</a></li>";
+echo "<li><a href='dhaval/fd_amount_ins.php'>Insert Expense With Amount</a></li>";
+echo "<li><a href='dhaval/fd_income_amount.php'>Insert Income With Amount</a></li>";
+echo "<li><a href='dhaval/total_expense.php'>Total Expense</a></li>";
+echo "<li><a href='dhaval/total_income.php'>Total Income</a></li>";
+echo "<li><a href='dhaval/fd_exp_tranction.php'>Data Fetch Expense Transction</a></li>";
+echo "<li><a href='dhaval/fd_income_tranction.php'>Data Fetch Income Transction</a></li>";
+echo "<li><a href='dhaval/fd_update_expense.php'>Data Update Expense Transction</a></li>";
+echo "<li><a href='dhaval/fd_upincome_tranction.php'>Data Update Income Transction</a></li>";
+echo "<li><a href='dhaval/fd_delete_expense.php'>Data Delete Expense Transction</a></li>";
+echo "<li><a href='dhaval/fd_delete_intraction.php'>Data Delete Income Transction</a></li>";
+echo "<li><a href='dhaval/fd_bud_insert.php'>Monthly Budget Insert</a></li>";
+echo "<li><a href='dhaval/fd_bud_view.php'>Monthly Budget View</a></li>";
+echo "<li><a href='dhaval/fd_budget_delete.php'>Delete Budget</a></li>";
+echo "<li><a href='dhaval/fd_remainig_val.php'>Remaining Val</a></li>";
+echo "<li><a href='dhaval/fd_budget_update.php'>Update Val</a></li>";
+echo "<li><a href='dhaval/fd_profile.php'>profile Page</a></li>";
+echo "<li><a href='dhaval/fd_get_monthly.php'>Monthly Get Page</a></li>";
+echo "<li><a href='dhaval/total_income_month.php'>Monthly Total Income</a></li>";
+echo "<li><a href='dhaval/total_exp_month.php'>Monthly Total Income</a></li>";
+echo "<li><a href='dhaval/monthly_report.php'>Monthly Report</a></li>";
+echo "<li><a href='dhaval/monthly_chart_data.php'>Monthly Chart Data</a></li>";
+echo "<li><a href='dhaval/yearly_chart_data.php'>Year Chart Data</a></li>";
+echo "<li><a href='dhaval/fd_total_user.php'>Total user Count</a></li>";
+echo "<li><a href='dhaval/total_expense_ad.php'>Total Expense  All User</a></li>";
+echo "<li><a href='dhaval/total_income_ad.php'>Total income  All User</a></li>";
+echo "<li><a href='dhaval/fd_delete_user.php'>Delete User</a></li>";
+echo "<li><a href='dhaval/view_user_income.php'>Income History</a></li>";
+echo "<li><a href='dhaval/view_user_expense.php'>Expense History</a></li>";
+echo "<li><a href='dhaval/fd_add_category.php'>Add Category</a></li>";
+echo "<li><a href='dhaval/fd_view_category.php'>View Category</a></li>";
+echo "<li><a href='dhaval/fd_delete_category.php'>Delete Category</a></li>";
+echo "<li><a href='dhaval/fd_update_category.php'>Update Category</a></li>";
+echo "<li><a href='dhaval/fd_admin_check.php'>Admin Login</a></li>"
+echo "<li><a href='dhaval/fd_forgot_simple.php'>Forget Pass</a></li>"
+echo "<li><a href='dhaval/forgot_pass_user.php'>Forget Pass User</a></li>"
+echo "<li><a href='dhaval/profile_edit.php'>Profile Edit User</a></li>"
+echo "<li><a href='dhaval/fd_user_since.php'>Mmeber Since</a></li>"
+
+echo "</ul>";
+
+
+
+
+
+
+
+
+
+
+
